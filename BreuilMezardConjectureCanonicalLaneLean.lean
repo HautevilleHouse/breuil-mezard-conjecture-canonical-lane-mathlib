@@ -1,0 +1,7 @@
+-- This module is the root of the BreuilMezardConjectureCanonicalLaneLean Lean proof package.
+import BreuilMezardConjectureCanonicalLaneLean.Basic
+import BreuilMezardConjectureCanonicalLaneLean.SourcePackage
+import BreuilMezardConjectureCanonicalLaneLean.SourceDependencies
+import BreuilMezardConjectureCanonicalLaneLean.Formalization
+import BreuilMezardConjectureCanonicalLaneLean.ReviewerBridge
+import BreuilMezardConjectureCanonicalLaneLean.TheoremStatement
